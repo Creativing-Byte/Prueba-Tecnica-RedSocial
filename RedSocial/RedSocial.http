@@ -1,0 +1,7 @@
+@RedSocial_HostAddress = http://localhost:5093
+
+GET {{RedSocial_HostAddress}}/api/SocialNetwork/GetDashboard/@Ivan
+
+Accept: application/json
+
+###
